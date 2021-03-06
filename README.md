@@ -71,7 +71,10 @@ _The results obtained during the process._
 ![Imagen 1](resources/images/1.png)
 
 
-![Imagen 1](resources/images/2.png)
+![Imagen 3](resources/images/2.png)
+
+
+![Imagen 4](resources/images/3.png)
 
 ## Built With
 
