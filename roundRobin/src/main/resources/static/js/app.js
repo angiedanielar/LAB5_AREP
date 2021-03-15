@@ -1,7 +1,7 @@
 var button = document.getElementById('button');
 
 button.addEventListener('click', function () {
-    var url=window.location.href+'/mensajes';
+    var url=window.location.href+'/messages';
     var mensaje=document.getElementById("message").value;
     axios.post(url,mensaje)
         .then(res => {
@@ -14,7 +14,7 @@ button.addEventListener('click', function () {
 
 
 function getMessages(){
-    var url=window.location.href+'/mensajes';
+    var url=window.location.href+'/messages';
     $("#table_messages > tbody").empty();
     axios.get(url).then(res=>{
         res.data.map(mensaje=>{
