@@ -83,8 +83,6 @@ _The results obtained during the process._
 
 - [Latex](overleaf.com) - Text composition system.
 
-- [Heroku](https://www.heroku.com/platform) - Deploy platform.
-
 ## Inform
 
 - [View the Design Inform](https://github.com/angiedanielar/LAB5_AREP/blob/master/Inform.pdf)
