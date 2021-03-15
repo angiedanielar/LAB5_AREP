@@ -48,12 +48,9 @@ mvn package
 3. Executing the program:
 
 ```
-mvn exec:java -D "exec.mainClass"="edu.escuelaing.arep.app.sparkd.SparkServer"
 
-And put this link in your browser: http://localhost:36000/index.html
 ```
 
-- Or go to the [web page](https://lab5arep.herokuapp.com/index.html)
 
 4. Generating the documentation:
 
@@ -62,6 +59,10 @@ mvn javadoc:javadoc
 ```
 
 - [View Documentation Ubication](https://angiedanielar.github.io/LAB5_AREP/apidocs)
+
+## AWS
+
+- [web page](link)
 
 ## Results
 
