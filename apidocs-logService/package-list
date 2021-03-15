@@ -1,0 +1,5 @@
+edu.escuelaing.arep.logServiceApp.controllers
+edu.escuelaing.arep.logServiceApp.model
+edu.escuelaing.arep.logServiceApp.persistence
+edu.escuelaing.arep.logServiceApp.persistence.impl
+edu.escuelaing.arep.logServiceApp.services
