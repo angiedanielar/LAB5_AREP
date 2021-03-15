@@ -48,7 +48,7 @@ mvn package
 3. Executing the program:
 
 ```
-
+docker-compose up
 ```
 
 
