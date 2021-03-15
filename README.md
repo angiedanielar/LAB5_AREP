@@ -81,11 +81,13 @@ _The results obtained during the process._
 
 - [Spark](http://sparkjava.com/) - Micro framework for creating web applications in Java 8.
 
-- [CircleCI](https://circleci.com/) [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/angiedanielar/LAB5_AREP) - Continuous Integration.
-
 - [Latex](overleaf.com) - Text composition system.
 
 - [Heroku](https://www.heroku.com/platform) - Deploy platform.
+
+## Inform
+
+- [View the Design Inform](https://github.com/angiedanielar/LAB5_AREP/blob/master/Inform.pdf)
 
 ## Author
 
