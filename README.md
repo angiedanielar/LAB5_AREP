@@ -87,10 +87,6 @@ _The results obtained during the process._
 
 - [Heroku](https://www.heroku.com/platform) - Deploy platform.
 
-## Inform
-
-- [View the Design Inform](https://github.com/angiedanielar/LAB5_AREP/blob/master/Inform.pdf)
-
 ## Author
 
 - Angie Daniela Ruiz Alfonso.
