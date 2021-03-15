@@ -58,12 +58,6 @@ docker-compose up
 mvn javadoc:javadoc
 ```
 
-- [View Documentation Ubication](https://angiedanielar.github.io/LAB5_AREP/apidocs)
-
-## AWS
-
-- [web page](link)
-
 ## Results
 
 _The results obtained during the process._
