@@ -41,11 +41,15 @@ git clone https://github.com/angiedanielar/LAB5_AREP.git
 
 2. Compile the projet:
 
+[In this directory](https://github.com/angiedanielar/LAB5_AREP/logService) and [In this directory](https://github.com/angiedanielar/LAB5_AREP/roundRobin)
+
 ```
 mvn package
 ```
 
 3. Executing the program:
+
+In the laboratory root
 
 ```
 docker-compose up
@@ -53,6 +57,8 @@ docker-compose up
 
 
 4. Generating the documentation:
+
+[In this directory](https://github.com/angiedanielar/LAB5_AREP/logService) and [In this directory](https://github.com/angiedanielar/LAB5_AREP/roundRobin)
 
 ```
 mvn javadoc:javadoc
